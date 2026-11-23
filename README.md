@@ -8,7 +8,7 @@ machines, embedded AI and predictive maintenance.
 
 ## What I work on
 - **Embedded systems & IoT**: CAN bus / J1939, PCB design (KiCad), Raspberry Pi, Arduino
-- **AI & computer vision**: CNNs (Python, Keras, OpenCV), deployment on NVIDIA Jetson Nano, Gradio
+- **AI & computer vision**: CNNs (Python, Keras, OpenCV), Gradio
 - **Industrial automation**: Siemens S7-1200, TIA Portal (GRAFCET, Ladder), touch HMIs
 - **Mechanical design**: 3D modelling in Autodesk Inventor and Fusion 360, 3D printing
 - **Electrical testing**: HV/MV commissioning, battery discharge tests, protection relay testing (Omicron)
@@ -17,5 +17,5 @@ machines, embedded AI and predictive maintenance.
 ## Featured projects
 | Project | What it is |
 |---|---|
-| [magnetic-particle-inspection-ai](https://github.com/souhailbenh/magnetic-particle-inspection-ai) | Semi-automated magnetic particle inspection bench: 3D design, Siemens PLC + HMI, CNN on Jetson Nano (96 % accuracy) |
+| [magnetic-particle-inspection-ai](https://github.com/souhailbenh/magnetic-particle-inspection-ai) | Semi-automated magnetic particle inspection bench: 3D design, Siemens PLC + HMI, CNN defect detection (proof of concept, 91.2 % on 34 images) |
 | [vortex-piezo-energy-harvester](https://github.com/souhailbenh/vortex-piezo-energy-harvester) | Vehicle-mounted energy harvester using vortex generators and piezoelectric discs, wind-tunnel tested (patent application MA66624) |
